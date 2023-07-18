@@ -1,3 +1,6 @@
+# NewMonk
+<img width="800" alt="Screenshot 2023-07-18 132931" src="https://github.com/Shreyash148/NewsMonk/assets/97425521/22fdf4b8-295b-4335-80ce-874e5f951c13">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
